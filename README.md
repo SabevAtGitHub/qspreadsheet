@@ -1,3 +1,3 @@
 # qspreadsheet
 
-Package used to show and edit pandas DataFrame in GUI
+Show and edit pandas DataFrame in PySide2 GUI
